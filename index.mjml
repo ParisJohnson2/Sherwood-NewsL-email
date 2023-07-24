@@ -1,0 +1,142 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .email-wording {
+        font-size: 12px;
+        font-weight: 300;
+      }
+
+      .email-links {
+        text-decoration: underline;
+        font-weight: 600;
+        color: #0DD6CD;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F9F9F9">
+    <mj-raw>
+      <!-- Start of header logo -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image alt="header-logo" align="left" width="100px" padding-top="20px" src="./Components/header-logo.PNG" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of header logo -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start of header email title -->
+    </mj-raw>
+    <mj-section padding-top="15px" padding-bottom="0">
+      <mj-column>
+        <mj-image alt="header-email-title" align="center" width="370px" src="./Components/header-email-title.PNG" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of header email title -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start of main story img section -->
+    </mj-raw>
+    <mj-section padding-top="10px" padding-bottom="0">
+      <mj-column>
+        <mj-image alt="main-story-img" align="center" padding-bottom="0" src="./Components/main-story-img.JPG" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of main story img section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start of main story img title -->
+    </mj-raw>
+    <mj-section padding-top="3px" padding-bottom="5px">
+      <mj-column>
+        <mj-text align="center" font-weight="300" font-size="12px">
+          JPow in the bank group chat: "FedNow me"
+          (Jim Watson/Getty Images)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of main story img title -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of Yesterdays market moves -->
+    </mj-raw>
+    <mj-section padding-top="25px" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" font-weight="300" font-size="12px">
+          Yesterday's Market Moves
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of Yesterdays market moves -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of market moves data -->
+    </mj-raw>
+    <mj-section padding="0 50px">
+      <mj-column padding="5px">
+        <mj-text>
+          <p style="font-weight: 300; font-size: 12px;">Dow Jones</p>
+          <p>35,225 <span style="color: #16D60D;">(+0.47%)</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="5px">
+        <mj-text>
+          <p style="font-weight: 300; font-size: 12px;">S&P 500</p>
+          <p>4,535 <span style="color: #D6160D;">(-0.68%)</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 50px">
+      <mj-column padding="5px">
+        <mj-text>
+          <p style="font-weight: 300; font-size: 12px;">Nasdaq</p>
+          <p>14,063 <span style="color: #D6160D;">(-2.05%)</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="5px">
+        <mj-text>
+          <p style="font-weight: 300; font-size: 12px;">Bitcoin</p>
+          <p>$29,860 <span style="color: #D6160D;">(-0.26%)</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of market moves data -->
+    </mj-raw>
+    <mj-raw>
+      <!-- hey snackers message -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px">
+      <mj-column padding="5px">
+        <mj-text font-size="15px" font-weight="400">
+          Hey Snackers,
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5">
+          It's a very happy Friday for the winner of Powerball's $1.08B
+          jackpot (the third largest ever). The lucky ticket was
+          <a href="#" class="email-links">sold</a> in downtown
+          LA at Las Palmitas Mini Market.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5">
+          The Dow hasen't gone down for nine straight trading days. The
+          30-company index rose again yesterday, lifted
+          by <a href="#" class="email-links">Johnson & Johnson</a> stock,
+          which popped 6% after earnings. But the NASDAQ sank 1.6% as investors
+          chewed on mixed results from <a href="#" class="email-links">Netflix</a>
+          and <a href="#" class="email-links">Tesla</a>.
+        </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="20px" padding-bottom="30px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
