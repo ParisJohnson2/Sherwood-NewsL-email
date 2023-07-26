@@ -16,6 +16,20 @@
         font-weight: 600;
         color: #0DD6CD;
       }
+
+      .footer-links {
+        text-decoration: none;
+        font-weight: 300;
+        color: #0DD6CD;
+        margin-right: 5px;
+      }
+
+      .footer-links-b {
+        text-decoration: none;
+        font-weight: 300;
+        color: #0DD6CD;
+        margin: 5px;
+      }
     </mj-style>
   </mj-head>
   <mj-body background-color="#F9F9F9">
@@ -225,6 +239,252 @@
     <mj-raw>
       <!-- end of old habits section -->
     </mj-raw>
-
+    <mj-raw>
+      <!-- start of m&a section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-image alt="m-a-logo" align="left" padding-bottom="0" src="./Components/m-a-logo.png" width="70px" height="30px" />
+        <mj-text font-size="23px" font-weight="400" line-height="1.2">
+          US antitrust watchdogs amp up their corporate crackdown with new
+          merger guidelines
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5">
+          <span style="font-weight: 500;">If at first you don't succeed...</span> try putting it in writing.
+          The Justice Department and the Federal Trade Commission <a href="#" class="email-links">proposed</a>
+          new antitrust merger guidelines this week, solidifying their tough stance on corporate
+          consolidation. President Biden pushed for the update in a 2021 exec order aimed at curbing
+          the power of big businesses. The guidelines outline which types of mergers deserve extra scrutiny.
+          Like:
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"> • Killer acquisitions:</span> when companies buy rivals to squash
+          future competition. In 2020, the FTC sued <a href="#" class="email-links">Meta</a> to force it
+          to divest from Instagram and WhatsApp, which it said were aquired in a "buy-or-bury scheme" to
+          maintain social superiorty.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"> • Data dominance:</span> mergers that give platform businesses
+          (like <a href="#" class="email-links">Apple</a>'s App Store and <a href="#" class="email-links">Amazon</a>'s
+          ecomm store) control over data streams that could help them eclipse rivals.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="1px">
+          <span style="font-weight: 500;"> • Worker woes:</span> acquisitions that could harm workers by
+          reducing competition and wages (the DOJ's lawsuit against the <span style="font-weight: 500;">Penguin Random House</span>
+          merger with <span style="font-weight: 500;">Simon & Schuster</span> addressed the deal's potential to harm
+          author pay).
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of m&a section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of big swings = lotsa strikeouts section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-top="1px" padding-bottom="1px">
+      <mj-column padding="5px">
+        <mj-text css-class="email-wording" line-height="1.5">
+          <span style="font-weight: 500;">Big swings = lotsa strikeouts...</span> The Biden admin's
+          ambitious antitrust strategy has led to some notable losses in court for
+          regulators. Last week, an appeals court squashed the FTC's latest attempt
+          to block <a href="#" class="email-links">Microsoft</a>'s $69B purchase of <a href="#" class="email-links">Activision Blizzard</a>.
+          And earlier this year the agency failed to stop Meta's aquisition of VR company
+          <span style="font-weight: 500;">Within Unlimited</span>. With this more aggressive
+          approach under Biden, antitrust agencies have won just 30% of their merger cases (compared to
+          a 65% win rate between 2001 and 2020).
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of not an app for that section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of takeaway logo -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-top="1px" padding-bottom="0">
+      <mj-column padding="5px">
+        <mj-text css-class="email-wording">
+          <span style="font-weight: 500; font-size: 15px;"><img alt="takeaway-logo" width="14px" src="./Components/takeaway-logo.PNG"> THE TAKEAWAY</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of takeaway logo -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of Losses can have silver linings section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-top="0" padding-bottom="1px">
+      <mj-column padding="0 5px">
+        <mj-text css-class="email-wording" line-height="1.5" padding-top="0">
+          <span style="font-weight: 500;">Losses can have silver linings...</span> Despite some
+          legal L's for regulators, forceful regulation has given corporate boards a
+          reason to think twice about snatching up companies. It could also provide a pathway for
+          future regulator wins. In each antitrust suit, new merger case law is established by courts,
+          which the DOJ and FTC could use as a blueprint.
+        </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="20px" padding-bottom="30px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of Losses can have silver linings section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of musked section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-image alt="musked-logo" align="left" padding-bottom="0" src="./Components/musked-logo.png" width="100px" height="30px" />
+        <mj-text font-size="23px" font-weight="400" line-height="1.2">
+          The Crypto Catch-up...
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"><img alt="robot-icon" src="./Components/robot-Icon.png" style="height: 14px;" /> Techy...</span>
+          <a href="#" class="email-links">Nasdeq</a> said it's <a href="#" class="email-links">bailing</a> on
+          plans to offer <a href="#" class="email-links">bitcoin</a> and <a href="#" class="email-links">ether</a> custody
+          to institutional investors. The U-turn comes as crypto's regulatory status remains in flux - and
+          suggests Wall Street is wary of digi assets.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"><img alt="money-bag-icon" src="./Components/money-bag-icon.png" style="height: 14px; width: 14px;" /> Spendy...</span>
+          Binance cut employee benefits while <a href="#" class="email-links">pointing</a> to declining profits after recently
+          laying off 1K+ employees. The world's largest crypto exchange is facing lawsuits from regulators
+          accusing it of operating illegally.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="15px">
+          <span style="font-weight: 500;"><img alt="pepper-icon" src="./Components/pepper-icon.png" style="height: 15px; width: 18px;" /> Spicy...</span>
+          Someone on <span style="font-weight: 500;">Arkham Intelligence</span>'s new crypto-intel
+          marketplace <a href="#" class="email-links">offered</a> to pay a bounty to anyone who could ID Elon
+          Musk's crypto wallet. Critics call the marketplace "dox to earn," but Arkham insists
+          it's democratizing sleuthing.
+        </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="20px" padding-bottom="20px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of musked section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of what else we're snackin section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-text font-size="23px" font-weight="400" line-height="1.2">
+          What else we're Snackin'
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"> • <a href="#" class="email-links">Sibs</a>: Johnson & Johnson</span>
+          hiked its annual forecast after strong medtech sales. Its consumer spin-off, <a href="#" class="email-links">Kenvue</a>
+          (which owns bathroom staples like Band-Aid and Listerine), also beat estimates in its first
+          report since IPO'ing.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"> • <a href="#" class="email-links">Move</a>:</span>
+          Homebuilders are seeing a surge of orders as high mortgage rates keep owners from selling -
+          pump demand for new homes. Last month, existing-home sales grew at the slowest pace in 14 years.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="1px">
+          <span style="font-weight: 500;"> • <a href="#" class="email-links">Bot</a>: Apple's</span>
+          said to be working on ChatGPT rival (dubbed: Apple GPT). The AI race heated
+          up this week, with <span style="font-weight: 500;">Meta</span> and
+          <span style="font-weight: 500;">Microsoft</span> teaming up on a software
+          offering for companies.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="1px">
+          <span style="font-weight: 500;"> • <a href="#" class="email-links">Puff</a>: Juul</span>
+          wants FDA approval for a new age-verifying vape that can help smokers pivot
+          to (tobacco-flavored-only) e-cigs. Juul narrowly avoided bankruptcy last year after an FDA
+          ban forced it to halt sales.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="1px">
+          <span style="font-weight: 500;"> • <a href="#" class="email-links">Touch</a>: Amazon's</span>
+          planning to add its pay-by-palm technology (dubbed: Amazon One) to all Whole Foods by year's
+          end. The palm-scanning tech is showing up everywhere from football stadiums to
+          <span style="font-weight: 500;">Panera</span>.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="1px">
+          <img alt="cookie-icon" src="./Components/cookie-icon.png" style="height: 14px; width: 14px;" /> Thanks for Snacking with us! Want to share the Snacks?
+          <span style="font-weight: 500;">Invite your friends to sign up</span> <a href="#" class="email-links">here</a>.
+        </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="40px" padding-bottom="20px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of what else we're snackin section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of snack fact of the day section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-text font-size="23px" font-weight="500" line-height="1.2">
+          Snack Fact Of the Day
+        </mj-text>
+        <mj-text color="#0DD6CD" font-size="23px" font-weight="300" line-height="1.2" padding-top="5px">
+          Barbenheimer opening weekend could rake in $200M
+        </mj-text>
+        <mj-text font-size="12px" font-weight="400" line-height="1.2" letter-spacing=".3px">
+          <a href="#" class="email-links">Read more</a>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="15px" padding-bottom="10px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of snack fact of the day section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of upcoming friday section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-text font-size="23px" font-weight="500" line-height="1.2">
+          Friday
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;">•</span> Earnings expected from <span style="font-weight: 500;">American Express</span>
+          and <span style="font-weight: 500;">Comerica</span>
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          Authors of this Snacks own ethereum and bitcoin and chares of: Apple, Amazon,
+          Microsoft, and Tesla
+        </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="20px" padding-bottom="5px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of upcoming friday section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of footer -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-group>
+        <mj-column padding="5px" width="50%">
+          <mj-image alt="instagram-logo" href="#" src="Components/instagram-icon.png" width="30px" align="right">
+        </mj-column>
+        <mj-column padding="5px" width="50%">
+          <mj-image alt="twitter-logo" href="#" src="Components/twitter-icon.png" width="30px" align="left">
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-text color="#959595" font-weight="300" font-size="10px" line-height="2" padding-left="30px" padding-bottom="1px">
+          Sherwood Media, LLC produces fresh and unique perspectives on topical financial news
+          and is a fully owned subsidiary of Robinhood Markets, Inc., and any views expressed here
+          do not necessarily reflect the views of any other Robinhood affiliate...
+          <a href="#" class="email-links">See more</a>
+        </mj-text>
+        <mj-text color="#959595" font-weight="300" font-size="10px" line-height="1.5" padding-left="30px" padding-bottom="1px" padding-top="25px">
+          <a href="#" class="footer-links">Sherwood Terms and Conditions</a> • <a href="#" class="footer-links-b">Our Editoral</a> •
+          <a href="#" class="footer-links-b">Principles</a> • <a href="#" class="footer-links-b">Contact Us</a> •
+          <a href="#" class="footer-links-b">Privacy Policy</a> • <a href="#" class="footer-links-b">Advertise with us</a>
+        </mj-text>
+        <mj-text color="#959595" font-weight="300" font-size="10px" line-height="1.5" padding-left="30px" padding-bottom="10px" padding-top="25px">
+          <a href="#" class="footer-links">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
