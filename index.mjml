@@ -114,7 +114,7 @@
       <!-- end of market moves data -->
     </mj-raw>
     <mj-raw>
-      <!-- hey snackers message -->
+      <!-- start of hey snackers message -->
     </mj-raw>
     <mj-section padding-left="50px" padding-right="5px">
       <mj-column padding="5px">
@@ -135,8 +135,96 @@
           chewed on mixed results from <a href="#" class="email-links">Netflix</a>
           and <a href="#" class="email-links">Tesla</a>.
         </mj-text>
+        <mj-divider border-width="1px" border-color="lightgrey" padding-top="20px" padding-bottom="5px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of hey snackers message -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start FedNow instant payments info section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-bottom="2px">
+      <mj-column padding="5px">
+        <mj-image alt="real-time-img" align="left" padding-bottom="0" src="./Components/real-time-img.png" width="100px" height="40px" />
+        <mj-text font-size="23px" font-weight="400" line-height="1.2">
+          The FedNow instant-payments network finally launches - but not
+          to replace Venmo
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5">
+          <span style="font-weight: 500;">"FedNow me"...</span> just doesn't have
+          the smae ring to it. Yesterday the Fed <a href="#" class="email-links">rolled out</a>
+          its instant-payments network, FedNow, to a few dozen financial institutions, including
+          <a href="#" class="email-links">JPMorgan Chase</a> and <a href="#" class="email-links">Wells Fargo</a>,
+          with plans to expand. FedNow lets banks and credit unions transfer up to $500K directly
+          from account to account in seconds, speeding up money movement for businesses and individuals.
+          It runs 24/7, so no need to count "business days."
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px">
+          <span style="font-weight: 500;"> • Very direct deposit:</span> if your bank signs up
+          for FedNow, you can make and receive payments in real time (imagine: paying rent <span style="text-decoration: underline;
+            font-weight: 500;">on August 5 at 11:59pm.</span>). If your employer uses the service,
+          your paycheck could hit your account quicker.
+        </mj-text>
+        <mj-text css-class="email-wording" line-height="1.5" padding-left="30px" padding-bottom="1px">
+          <span style="font-weight: 500;"> • FedSoYesterday:</span> Banks have been waiting longer
+          than Rihanna fans for FedNow, the Fed's first new payments network since the '70s. The
+          UK, India, and Brazil have had instant infrastructure running for years.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of FedNow instant payments info section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of not an app for that section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-top="1px" padding-bottom="1px">
+      <mj-column padding="5px">
+        <mj-text css-class="email-wording" line-height="1.5">
+          <span style="font-weight: 500;">There's (not) an app for that...</span> FedNow doesn't
+          have a Venmo equivalent (it's a back-end system designed to be used by banks, not brunchers).
+          Peer-to-peer payment platforms like <a href="#" class="email-links">PayPal</a> and it's subsidiary
+          <span style="font-weight: 500;">Venmo</span> mostly use the current government-backed network (the Automatic Clearing
+          House) to make transfers. Transfers seem instant when your're sending from Venmo to Venmo, but moving $$ to bank accounts
+          usually takes days to clear. Still, apps like Venmo won't be able to directly offer FedNow's speedy service.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of not an app for that section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of takeaway logo -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-top="1px" padding-bottom="0">
+      <mj-column padding="5px">
+        <mj-text css-class="email-wording">
+          <span style="font-weight: 500; font-size: 15px;"><img alt="takeaway-logo" width="14px" src="./Components/takeaway-logo.PNG"> THE TAKEAWAY</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of takeaway logo -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of old habits section -->
+    </mj-raw>
+    <mj-section padding-left="50px" padding-right="5px" padding-top="0" padding-bottom="1px">
+      <mj-column padding="0 5px">
+        <mj-text css-class="email-wording" line-height="1.5" padding-top="0">
+          <span style="font-weight: 500;">Old habits die hard...</span> Businesses and consumers
+          are used to transfers taking time to clear, so banks might not be quick to adopt (and pay for)
+          FedNow services. Experts predict the shift could be slow, saying that instant-payment systems
+          haven't gained much traction in countries like the UK. But the benefits of real-time transfers could
+          make the transition worth it for some, and banks that offer FedNow could have a leg up.
+        </mj-text>
         <mj-divider border-width="1px" border-color="lightgrey" padding-top="20px" padding-bottom="30px" />
       </mj-column>
     </mj-section>
+    <mj-raw>
+      <!-- end of old habits section -->
+    </mj-raw>
+
   </mj-body>
 </mjml>
